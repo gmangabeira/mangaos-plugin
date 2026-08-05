@@ -1,0 +1,9 @@
+{
+  "name": "mangaos",
+  "version": "1.0.0",
+  "description": "MangaOS slash commands for content engine, task board, ops, research, design, and publishing",
+  "author": {
+    "name": "Gabriel Mangabeira",
+    "email": "gmangabeira@gmail.com"
+  }
+}
