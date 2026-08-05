@@ -1,0 +1,24 @@
+{
+  "name": "mangaos-plugin",
+  "owner": {
+    "name": "Gabriel Mangabeira",
+    "url": "https://github.com/gmangabeira"
+  },
+  "metadata": {
+    "description": "MangaOS slash commands for content engine, task board, ops, research, design, and publishing."
+  },
+  "plugins": [
+    {
+      "name": "mangaos",
+      "description": "20 slash commands for the MangaOS marketing operating system — tasks, content engine, ops, research, design, publishing, and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gabriel Mangabeira",
+        "url": "https://github.com/gmangabeira"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/gmangabeira/mangaos-plugin"
+    }
+  ]
+}
